@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
-import {View, TextInput, Text, Picker, StyleSheet, TouchableOpacity} from 'react-native';
+import {View, TextInput, Text, StyleSheet, TouchableOpacity} from 'react-native';
+import { Picker } from '@react-native-picker/picker';
 
 // import connect to connect with redux store
 import { connect } from 'react-redux';

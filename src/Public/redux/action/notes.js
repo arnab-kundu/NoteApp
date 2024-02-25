@@ -1,6 +1,6 @@
 import axios from 'axios';                  // import axios for getting data from API
 
-const IP = 'http://192.168.6.181:3000';     // IP Backend
+const IP = 'http://192.168.1.7:3000';     // IP Backend
 
 /*=========================================*
  *=============== N O T E S ===============*
